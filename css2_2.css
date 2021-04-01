@@ -1,0 +1,89 @@
+.banner{
+    height: 220px;
+    text-align: center;
+    border: 5px solid red;
+}
+.left{
+    float:left;
+    margin-top: 20px;
+    border: 5px solid blue;
+    width: 60%;
+    height: 500px;
+}
+.right{
+    float: left;
+    margin-left: 15px;
+    border: 5px solid blue;
+    width: 36%;
+    height: 250px;
+    margin-top: 20px;
+}
+.left .dmsp{
+    font-size: 20px;
+    color: firebrick;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.left .ds{
+    float: left;
+    line-height: 20px;
+}
+.eachimg{
+   
+    width: 100%;
+    border: 3px solid red;
+    height: 150px;
+}
+.left .anhpro:first-child{
+    
+    margin-left: 10px;
+    margin-top:10px;
+}
+.left .anhpro {
+    margin-left: 10px;
+    margin-top: 10px;
+    width: 40%;
+    display: inline-block;
+    border: 3px solid red;
+    float:left;
+}
+.anhpro .img{
+    width: 50%;
+    height: 50%;
+}
+.lienket{
+    text-align:center;
+    border-bottom: 3px solid blue;
+    padding: 10px 5px 20px 5px;
+    font-size: 20px;
+    color: aqua;
+    background-color: darkgray;
+}
+.dslink li{
+    margin: 15px 0px 0px 80px;
+    
+}
+.quangcao {
+    float:left;
+    margin-left: 15px;
+    border: 5px solid blue;
+    width: 36%;
+    height: 220px;
+    margin-top: 20px;
+    text-align:center;
+}
+.quangcao .img {
+    width: 10%;
+    height: 10%;
+    
+}
+.banquyen {
+    width: 100%;
+    height: 80px;
+    text-align: center;
+    font-size: 25px;
+    border: 5px solid blue;
+    float: left;
+    margin-top: 20px;
+    padding-top: 30px;
+}

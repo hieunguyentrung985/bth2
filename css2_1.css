@@ -1,0 +1,65 @@
+.banner{
+    height: 170px;
+    text-align: center;
+}
+.menu{
+    width:100%;
+    height: 500px;
+    margin-top: 20px;
+}
+.menu >.left{
+    width: 75%;
+    background-color: antiquewhite;
+    float:left;
+}
+.left > .imgpro {
+    /*background-color: red;*/
+    display:inline-block;
+}
+.left > .list{
+    height: 220px;
+    /*background-color:gray;*/
+    display:inline-block;
+    margin-left: 200px;
+    font-size: 30px;
+    line-height: 35px;
+}
+.left> .thuvienanh{
+    font-size: 30px;
+    color: firebrick;
+}
+.menu > .right {
+    width: 19%;
+    /*background-color: gray;*/
+    /*border: 5px solid red;*/
+    text-align: center;
+    float:left;
+}
+.showanh{
+    display:inline-block;
+}
+.showanh img{
+    width: 15%;
+}
+.right .lienket{
+    font-size: 20px;
+    background-color: aquamarine;
+    line-height:30px;
+    display: block;
+    float:left;
+    width:340px;
+}
+.listlink{
+    line-height: 85px;
+    font-size: 20px;
+}
+.foot{
+    height:100px;
+    font-size: 30px;
+    background-color: aqua;
+    float:left;
+    width: 100%;
+    text-align:center;
+    padding-top:40px;
+    margin-top:30px;
+}
